@@ -18,7 +18,7 @@
         },
         "fprocess": "node main.js",
         "network": "func_functions",
-        "repo_url": "https://github.com/openfaas/faas/tree/master/sample-functions/NodeInfo"
+        "repo_url": "https://github.com/yuyangtian1000/qwer.git"
     }
   ]
 }
