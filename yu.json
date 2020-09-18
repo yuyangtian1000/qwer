@@ -2,8 +2,8 @@
     "version": "0.2.0",
     "functions": [
     {
-        "title": "NodeInfo",
-        "name": "nodeinfo",
+        "title": "aaa",
+        "name": "sss",
         "description": "asdasdasdasdasdasd",
         "images": {
             "arm64": "functions/nodeinfo:arm64",
